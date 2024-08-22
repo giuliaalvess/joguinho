@@ -1,8 +1,8 @@
-<h1>O que é o jogo da cobrinha</h1>
+<h1>O que é o jogo da cobrinha🐍</h1>
 
 <p>O jogo da cobrinha é um jogo simples que começa com um pixel como tamanho para o jogador. Tendo como objetivo aumentar seu tamanho comendo os ratinhos que aparecem pela tela. </p>
 
-<h2>Regras jogo da cobrinha</h2>
+<h2>Regras do jogo</h2>
 
 <p>1-Tente pegar o rato🐭
 
