@@ -15,4 +15,4 @@
 5-O jogo acaba quando não tiver mais espaço na tela</p>
 
 
-<p>Integrantes: Bianca Bulling, Camile Royer, Giulia Toffoli e Rafaela Duarte</p>
+<p>💞Integrantes: Bianca Bulling, Camile Royer, Giulia Toffoli e Rafaela Duarte💞</p>
