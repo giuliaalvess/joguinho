@@ -1,7 +1,7 @@
-#O que é o jogo dsa cobrinha
+#O que é o jogo da cobrinha#
 
 
-##Regras jogo da cobrinha
+##Regras jogo da cobrinha##
 
 <p>1-Tente pegar o rato🐭
 
