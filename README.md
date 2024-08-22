@@ -1,4 +1,4 @@
-Regras jogo da cobrinha
+<h1>Regras jogo da cobrinha</h1>
 
 1-Tente pegar o rato
 
