@@ -1,6 +1,6 @@
 <h1>Regras jogo da cobrinha</h1>
 
-<p>1-Tente pegar o rato
+<p>1-Tente pegar o rato🐭
 
 2-Não encoste nas bordas, para não perder
 
