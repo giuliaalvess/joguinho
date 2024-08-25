@@ -12,3 +12,5 @@
 5-O jogo acaba quando não tiver mais espaço na tela</p>
 
 <p>Integrantes: Bianca Bulling, Camile Royer, Giulia Toffoli e Rafaela Duarte💞</p>
+<h3>Link para as funções novas</h3>
+<p>https://senacrsedu-my.sharepoint.com/:w:/g/personal/02696856001_senacrs_edu_br/EZ3axHiLM-1Mv3KW7noAhM0BbaTk0OL9GxEV3OxtepzyeA?e=zaUoSC</p>
